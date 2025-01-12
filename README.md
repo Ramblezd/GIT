@@ -1,2 +1,1 @@
-# GIT
-Repository esercizi GIT
+## Hello GIT
